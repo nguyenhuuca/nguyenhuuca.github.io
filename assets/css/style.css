@@ -784,7 +784,7 @@ button:focus, button:active:focus, button.active:focus,
 	text-align: center;
 	border:10px solid #f1f2f7;
 	position: absolute;
-	top:-8px;
+	top:10px;
 	left:30%;
 }
 .experience-item:hover .stay-time {
